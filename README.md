@@ -51,14 +51,14 @@
  
    <li>
      
-     <em>e-mail:</em><a href=mailto:"chagtmi@hotmail.fr">mon e-mail</a>
+     <em>e-mail:</em><a href=mailto:"chagtmi@hotmail.fr">ici mon e-mail</a>
      
    </li> 
    
    
    <li>
      
-     <em>g-mail:</em><a href=mailto:"chagtmissam@gmail.com">mon g-mail </a></a>
+     <em>g-mail:</em><a href=mailto:"chagtmissam@gmail.com">ici mon g-mail </a></a>
      
    </li>
    
@@ -72,14 +72,14 @@
    
   <li>
     
-    <em>linkedin:</em><a href="https://www.linkedin.com/in/issam-chagtmi-0906881b9"> ma page linkedin</a>
+    <em>linkedin:</em><a href="https://www.linkedin.com/in/issam-chagtmi-0906881b9">ici ma page linkedin</a>
     
   </li> 
   
   
    <li>
      
-     <em>facebook:</em><a href="https://www.facebook.com/ichagtmi"> ma page facebook</a>
+     <em>facebook:</em><a href="https://www.facebook.com/ichagtmi">ici ma page facebook</a>
      
    </li> 
   
